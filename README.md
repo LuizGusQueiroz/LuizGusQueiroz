@@ -1,6 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luiz+Gustavo;I'm+20+years+old;I'm+from+Brazil,+CE;I+study+Data+Science+at+UFC;Be+Welcome!+:%29)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-queiroz-ba0ba9252/)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luizgus@alu.ufc.br)
 
 ![Luiz Github stats](https://github-readme-stats.vercel.app/api?username=LuizGusQueiroz&theme=blue-green)
 
